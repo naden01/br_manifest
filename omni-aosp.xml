@@ -11,9 +11,6 @@
            fetch="https://github.com/omnirom"
            review="gerrit.omnirom.org" />
 
-  <remote  name="Batik"
-           fetch="https://github.com/BatikRecovery" />
-
   <project path="art" name="android_art" remote="omnirom" revision="android-9.0" groups="pdk" />
   <project path="bionic" name="android_bionic" remote="omnirom" revision="android-9.0" groups="pdk" />
 
