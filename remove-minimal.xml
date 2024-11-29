@@ -98,12 +98,14 @@
     <remove-project name="platform/external/libbackup"/>
     <remove-project name="platform/external/libcap-ng"/>
     <remove-project name="platform/external/libconstrainedcrypto"/>
+    <remove-project name="platform/external/libcups"/>
     <remove-project name="platform/external/libdaemon"/>
     <remove-project name="platform/external/libdivsufsort"/>
     <remove-project name="platform/external/libedit"/>
     <remove-project name="platform/external/libese"/>
     <remove-project name="platform/external/libexif"/>
     <remove-project name="platform/external/libgsm"/>
+    <remove-project name="platform/external/libhevc"/>
     <remove-project name="platform/external/libjpeg-turbo"/>
     <remove-project name="platform/external/libldac"/>
     <remove-project name="platform/external/libmicrohttpd"/>
@@ -438,6 +440,7 @@
     <remove-project name="android_packages_apps_OmniSwitch"/>
     <remove-project name="android_packages_apps_OpenDelta"/>
     <remove-project name="android_packages_apps_OmniChromium"/>
+    <remove-project name="android_packages_apps_OmniRecord"/>
     <remove-project name="android_packages_apps_Phonograph"/>
     <remove-project name="android_vendor_interfaces"/>
 
