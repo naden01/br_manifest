@@ -98,7 +98,6 @@
     <remove-project name="platform/external/libbackup"/>
     <remove-project name="platform/external/libcap-ng"/>
     <remove-project name="platform/external/libconstrainedcrypto"/>
-    <remove-project name="platform/external/libcups"/>
     <remove-project name="platform/external/libdaemon"/>
     <remove-project name="platform/external/libdivsufsort"/>
     <remove-project name="platform/external/libedit"/>
