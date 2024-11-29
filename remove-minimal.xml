@@ -104,7 +104,6 @@
     <remove-project name="platform/external/libese"/>
     <remove-project name="platform/external/libexif"/>
     <remove-project name="platform/external/libgsm"/>
-    <remove-project name="platform/external/libhevc"/>
     <remove-project name="platform/external/libjpeg-turbo"/>
     <remove-project name="platform/external/libldac"/>
     <remove-project name="platform/external/libmicrohttpd"/>
